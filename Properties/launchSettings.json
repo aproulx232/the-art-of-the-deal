@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "the_art_of_the_deal": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7148",
+      "launchBrowser": false
+    }
+  }
+}

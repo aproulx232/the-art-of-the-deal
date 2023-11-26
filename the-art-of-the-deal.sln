@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the-art-of-the-deal", "the-art-of-the-deal.csproj", "{B0000E82-3C7E-49A3-900F-C79731F98809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0000E82-3C7E-49A3-900F-C79731F98809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0000E82-3C7E-49A3-900F-C79731F98809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0000E82-3C7E-49A3-900F-C79731F98809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0000E82-3C7E-49A3-900F-C79731F98809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A107FB6F-6E05-4549-B128-110BAA110B03}
+	EndGlobalSection
+EndGlobal
